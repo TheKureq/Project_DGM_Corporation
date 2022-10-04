@@ -1,0 +1,27 @@
+@import './colors';
+@import './animations';
+
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+    font-size: 62,5%;
+    scroll-behavior: smooth;
+}
+
+body {
+	background-color: $dark;
+    font-size: 1.6rem;
+	font-family: 'Raleway', sans-serif;
+    color: $white;
+    // font-family: 'Cinzel', serif;
+}
+
+@import './small';
+@import './medium';
+@import './large';

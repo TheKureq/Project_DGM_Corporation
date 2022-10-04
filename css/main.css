@@ -1,0 +1,21 @@
+*,
+*::after,
+*::before {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62,5%;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #232323;
+  font-size: 1.6rem;
+  font-family: 'Raleway', sans-serif;
+  color: #fff;
+}
+/*# sourceMappingURL=main.css.map */
