@@ -8,3 +8,5 @@ TECHNOLOGIES:
   * GRID 🔳
 * SASS 🟣
 * JS (basic) 🟡
+* RWD
+* BEM
